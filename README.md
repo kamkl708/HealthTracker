@@ -32,5 +32,7 @@ Future enhancements for HealthTracker could include integration with wearable de
 
 ### Acknowledgments
 HealthTracker acknowledges the support and collaboration of the healthcare community, data providers, and AI researchers in developing this innovative solution for improving health and wellness outcomes.
+      
 Inspiration from AI get clever: https://www.bosch-sensortec.com/news-and-stories/stories/ai-revolutioniztes-fitness-tracking.html 
+
 The innovation about the idea from various scientific research as PubMed, Academic Journals and Scopus.
