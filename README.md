@@ -1,4 +1,5 @@
 # HealthTracker
+![141343363-doctor-and-smartwatch-with-heart-and-medical-icons-smartwatch-health-tracker-and-health-monitor](https://github.com/kamkl708/my-new-project/assets/168839899/336055cb-6a4f-4753-bc51-56c044cce19e)
 
 ## Summary
 HealthTracker is an AI-powered application designed to help individuals track and manage their overall health and wellness. By leveraging machine learning algorithms and data analytics, HealthTracker provides personalized insights, recommendations, and guidance to users on various aspects of their health, including nutrition, fitness, sleep, and stress management.
